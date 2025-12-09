@@ -20,7 +20,7 @@
     },
     "deviceProfileId" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "7d975e90-d101-11f0-9c17-a36959df4a2a"
+      "id" : "11dface0-cadd-11f0-87c9-23b8c25dce11"
     },
     "externalId" : null,
     "firmwareId" : null,
@@ -31,7 +31,7 @@
     "label" : "teto_test1234",
     "name" : "Teto",
     "softwareId" : null,
-    "type" : "Software OTA"
+    "type" : "default"
   },
   "credentials" : {
     "credentialsId" : "iVBJeBs6IgwDlS54tbNz",
