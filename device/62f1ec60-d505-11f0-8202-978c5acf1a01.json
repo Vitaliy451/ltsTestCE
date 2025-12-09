@@ -28,7 +28,7 @@
       "entityType" : "DEVICE",
       "id" : "62f1ec60-d505-11f0-8202-978c5acf1a01"
     },
-    "label" : "",
+    "label" : "teto_test1234",
     "name" : "Teto",
     "softwareId" : null,
     "type" : "default"
@@ -39,7 +39,15 @@
     "credentialsValue" : null
   },
   "attributes" : {
-    "SERVER_SCOPE" : [ ],
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1765287956176,
+      "longValue" : null,
+      "strValue" : null
+    } ],
     "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
