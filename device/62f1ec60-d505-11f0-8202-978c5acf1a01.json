@@ -4,7 +4,7 @@
     "additionalInfo" : {
       "gateway" : false,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend hendrerit justo, eu varius velit suscipit vulputate. Maecenas mattis, massa ac viverra hendrerit, velit augue facilisis ex, sit amet posuere velit enim in ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis arcu eu orci iaculis dignissim nec eu dui."
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
