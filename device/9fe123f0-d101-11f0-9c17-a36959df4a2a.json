@@ -22,7 +22,10 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "86f37500-d101-11f0-9c17-a36959df4a2a"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "9fe123f0-d101-11f0-9c17-a36959df4a2a"
+    },
     "firmwareId" : {
       "entityType" : "OTA_PACKAGE",
       "id" : "d14b5400-d102-11f0-9c17-a36959df4a2a"
@@ -48,7 +51,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1764847150514,
+      "lastUpdateTs" : 1765362363382,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -65,7 +68,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_checksum",
-      "lastUpdateTs" : 1764851777538,
+      "lastUpdateTs" : 1765362363300,
       "longValue" : null,
       "strValue" : "f458bbeabc639c028bce35b154afaaeaf6ecac179a408f2772e1fe7f9061ce72"
     }, {
@@ -73,7 +76,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_checksum_algorithm",
-      "lastUpdateTs" : 1764851777538,
+      "lastUpdateTs" : 1765362363300,
       "longValue" : null,
       "strValue" : "SHA256"
     }, {
@@ -81,7 +84,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_size",
-      "lastUpdateTs" : 1764851777538,
+      "lastUpdateTs" : 1765362363300,
       "longValue" : 13536,
       "strValue" : null
     }, {
@@ -89,7 +92,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_tag",
-      "lastUpdateTs" : 1764851777538,
+      "lastUpdateTs" : 1765362363300,
       "longValue" : null,
       "strValue" : "Firmware OTA v1.2"
     }, {
@@ -97,7 +100,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_title",
-      "lastUpdateTs" : 1764851777538,
+      "lastUpdateTs" : 1765362363300,
       "longValue" : null,
       "strValue" : "Firmware OTA"
     }, {
@@ -105,7 +108,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_version",
-      "lastUpdateTs" : 1764851777538,
+      "lastUpdateTs" : 1765362363300,
       "longValue" : null,
       "strValue" : "v1.2"
     } ]
