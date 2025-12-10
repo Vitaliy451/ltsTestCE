@@ -30,7 +30,10 @@
     },
     "label" : "",
     "name" : "DevTest",
-    "softwareId" : null,
+    "softwareId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "b89f6900-d102-11f0-9c17-a36959df4a2a"
+    },
     "type" : "Software OTA"
   },
   "credentials" : {
